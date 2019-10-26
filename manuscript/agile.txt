@@ -1,0 +1,11 @@
+# Agile
+
+This chapter is about Agile
+
+[TODO: VALUES/Manifesto]
+
+[TODO: Principles]
+
+This chapter I will give very brief history on Agile, then go through values and principles and a section for each.
+
+NOTE: Talk about how in Scrum book he talks about Agile not being a methodology

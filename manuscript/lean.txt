@@ -1,0 +1,7 @@
+# Lean
+
+This chapter is about Lean
+
+[TODO: Lean values and principles]
+
+[TODO: Lean vs Lean Software - separate chapters?]

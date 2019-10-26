@@ -2,4 +2,7 @@ introduction.txt
 chapter1.txt
 chapter2.txt
 chapter3.txt
+agile.txt
+lean.txt
+devops.txt
 conclusion.txt
