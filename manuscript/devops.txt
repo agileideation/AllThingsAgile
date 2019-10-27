@@ -8,4 +8,10 @@ This chapter is about DevOps
 
 [TODO: CALMS]
 
+* Culture
+* Automation
+* Lean
+* Measurement
+* Sharing
+
 [TODO: basics on CI/CD pipeline, tooling, self service operations, self service audit, automated testing]
