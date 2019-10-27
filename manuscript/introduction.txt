@@ -1,3 +1,10 @@
 # Introduction
 
 This is the introduction.
+
+I am going to write in as simple plain english as I can.
+I am not going into the science of why all this works, maybe at a high level, but if you want more details you should dive deeper into the reference materials/bibliography.
+
+I will limit the use of footnotes and in-line citations. This should be easy to read.
+
+I am writing this book because I wish it exists, I hope someone finds it useful.
