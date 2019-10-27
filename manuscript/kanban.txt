@@ -1,0 +1,4 @@
+# Kanban
+
+Kanban is not a framework. Is it a methodology?
+No such thing as Kanban vs Scrum!

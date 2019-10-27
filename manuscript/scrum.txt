@@ -1,0 +1,5 @@
+# Scrum
+
+A chapter on Scrum
+
+[TODO: Values, ceremonies, roles...]

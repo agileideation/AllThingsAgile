@@ -5,4 +5,7 @@ chapter3.txt
 agile.txt
 lean.txt
 devops.txt
+scrum.txt
+bigidea.txt
+toc.txt
 conclusion.txt
