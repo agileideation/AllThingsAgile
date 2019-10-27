@@ -5,3 +5,5 @@ To make a preview of your book, click on the "Preview" button on the left. We'll
 You can keep writing in the meantime.
 
 That's it for the brief introduction to Leanpub.
+
+Testing to see if I fixed the GitHub name issue on this computer.
