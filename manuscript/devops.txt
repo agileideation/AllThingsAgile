@@ -6,4 +6,6 @@ This chapter is about DevOps
 
 [TODO: 5 ideals]
 
+[TODO: CALMS]
+
 [TODO: basics on CI/CD pipeline, tooling, self service operations, self service audit, automated testing]
