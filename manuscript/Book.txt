@@ -11,3 +11,4 @@ toc.txt
 xp.txt
 bigidea.txt
 conclusion.txt
+toolsandtechniques.txt

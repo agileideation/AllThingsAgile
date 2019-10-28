@@ -1,0 +1,28 @@
+# Appendix A: Tools, Practices, and Techniques
+
+This chapter is going to be a mess for a while I think. Maybe just a list and brief summary/how it can be used. Maybe try to categorize or put along a timeline.
+
+* Project vision
+* Project charter
+* Team charter
+* EventStorming
+* Impact Mapping
+* Value Stream Mapping (and/or Workflow Process Mapping)
+* User Story Mapping
+* Example Mapping
+* Moving Motivators
+* Personal Maps
+* Delegation Poker
+* Job Crafting
+* team competency matrix
+* SWOT on team skills
+* product strategy canvas
+* Strategyzer's Value Proposition Canvas
+* Lean Change Management Canvases - Strategic Change Canvas, Options Board, and Experiments Tracker
+* Squad Health Check
+* Psychological Safety
+* vulnerability
+* crucial conversations / fierce conversations / radical candor
+* Definition of Done/definition of ready at story, epic, sprint, and release level
+* team agreements
+* writing good stories
