@@ -38,3 +38,18 @@ Iterative Development—This principle defines iterative development and emphasi
 * Sprint Review
 * Increment/ Product Increment
 * Sprint Retrospective
+
+
+### Steps from Scrum book
+
+1. pick a product owner
+2. pick a team
+3. pick a scrummaster
+4. create and prioritize a product backlog
+5. refine and estimate the product backlog
+6. sprint Planning
+7. make work visible
+8. daily standup / daily scrum
+9. sprint review / sprint demo
+10. sprint retrospective
+11. immediately start next sprint cycle with learnings taken into account
