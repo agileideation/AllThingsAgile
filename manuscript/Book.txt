@@ -1,9 +1,11 @@
+<<<<<<< current
 introduction.txt
 chapter1.txt
 chapter2.txt
 chapter3.txt
 lean.txt
 agile.txt
+lean.txt
 devops.txt
 scrum.txt
 kanban.txt
@@ -12,3 +14,18 @@ xp.txt
 bigidea.txt
 conclusion.txt
 toolsandtechniques.txt
+=======
+introduction.txt
+chapter1.txt
+chapter2.txt
+chapter3.txt
+lean.txt
+agile.txt
+lean.txt
+devops.txt
+scrum.txt
+kanban.txt
+bigidea.txt
+conclusion.txt
+toolsandtechniques.txt
+>>>>>>> before discard
