@@ -2,3 +2,7 @@
 
 Kanban is not a framework. Is it a methodology?
 No such thing as Kanban vs Scrum!
+
+To Do, Doing, Done
+Set Wip Limits
+Pull work/queuing

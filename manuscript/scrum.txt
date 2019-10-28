@@ -5,3 +5,36 @@ A chapter on Scrum
 Quote from the Scrum book where he says that this was his attempt to put those values and principles into practice
 
 [TODO: Values, ceremonies, roles...]
+
+Empirical Process Control—This principle emphasizes the core philosophy of Scrum based on the three main ideas of transparency, inspection, and adaptation.
+
+Self-organization—This principle focuses on today’s workers, who deliver significantly greater value when self-organized and this results in better team buy-in and shared ownership; and an innovative and creative environment which is more conducive for growth.
+
+Collaboration—This principle focuses on the three core dimensions related to collaborative work: awareness, articulation, and appropriation. It also advocates project management as a shared value-creation process with teams working and interacting together to deliver the greatest value.
+
+Value-based Prioritization—This principle highlights the focus of Scrum to deliver maximum business value, from early in the project and continuing throughout.
+
+Time-boxing—This principle describes how time is considered a limiting constraint in Scrum, and used to help effectively manage project planning and execution. Time-boxed elements in Scrum include Sprints, Daily Standup Meetings, Sprint Planning Meetings, and Sprint Review Meetings.
+
+Iterative Development—This principle defines iterative development and emphasizes how to better manage changes and build products that satisfy customer needs. It also delineates the Product Owner’s and organization’s responsibilities related to iterative development.
+
+
+### VALUES
+
+* Courage
+* Focus
+* Commitment
+* Respect
+* Openness
+
+
+### scrum
+
+* Product backlog
+* Sprint planning
+* Sprint backlog
+* Scrum team
+* Daily Scrum / Standup
+* Sprint Review
+* Increment/ Product Increment
+* Sprint Retrospective

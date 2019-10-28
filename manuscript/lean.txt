@@ -7,3 +7,51 @@ in the Scrum book he mentions that article about finding Lean and Taiichi Ono
 [TODO: Lean values and principles]
 
 [TODO: Lean vs Lean Software - separate chapters?]
+
+
+### Original 5 Values
+
+1. Identify value
+2. Map the value stream
+3. Create Flow
+4. Establish pull
+5. seek perfection
+
+
+### 7 Modern Tenants
+
+1. Optimize the whole
+2. Eliminate waste
+3. Create knowledge
+4. Build quality in
+5. Deliver fast by managing flow
+6. Defer commitment
+7. Respect people
+
+
+### Lean Software Development
+
+Lean philosophy regards everything not adding value to the customer as waste (muda).
+
+Such waste may include:
+
+* Partially done work
+* Extra features
+* Relearning
+* Task switching
+* Waiting
+* Handoffs
+* Defects
+* Management activities
+
+Industry research revealed these software development wastes:
+
+* Building the wrong feature or product
+* Mismanaging the backlog
+* Rework
+* Unnecessarily complex solutions
+* Extraneous cognitive load
+* Psychological distress
+* Waiting/multitasking
+* Knowledge loss
+* Ineffective communication.
