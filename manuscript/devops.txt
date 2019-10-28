@@ -4,7 +4,23 @@ This chapter is about DevOps
 
 [TODO: 3 ways]
 
+### The First Way: Systems Thinking
+
+### The Second Way: Amplify Feedback Loops
+
+### The Third Way: Culture of Continual Experimentation and Learning
+
 [TODO: 5 ideals]
+
+### The First Ideal—Locality and Simplicity
+
+### The Second Ideal—Focus, Flow, and Joy
+
+### The Third Ideal—Improvement of Daily Work
+
+### The Fourth Ideal—Psychological Safety
+
+### The Fifth Ideal—Customer Focus
 
 [TODO: CALMS]
 
@@ -15,3 +31,5 @@ This chapter is about DevOps
 * Sharing
 
 [TODO: basics on CI/CD pipeline, tooling, self service operations, self service audit, automated testing]
+
+Build, Deploy and Run - automation

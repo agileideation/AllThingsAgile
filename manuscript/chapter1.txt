@@ -1,4 +1,2 @@
 {sample: true}
 # Chapter One
-
-This book is going to be a labor of love. I want a book like this, I hope it helps someone else.

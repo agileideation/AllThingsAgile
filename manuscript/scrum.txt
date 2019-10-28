@@ -2,4 +2,6 @@
 
 A chapter on Scrum
 
+Quote from the Scrum book where he says that this was his attempt to put those values and principles into practice
+
 [TODO: Values, ceremonies, roles...]

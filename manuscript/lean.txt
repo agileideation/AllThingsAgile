@@ -2,6 +2,8 @@
 
 This chapter is about Lean
 
+in the Scrum book he mentions that article about finding Lean and Taiichi Ono
+
 [TODO: Lean values and principles]
 
 [TODO: Lean vs Lean Software - separate chapters?]
