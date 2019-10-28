@@ -1,0 +1,49 @@
+# eXtreme Programming (XP)
+
+These practices are considered by many to be REQUIRED to do SCRUM successfully.
+
+* Test Driven development
+* Paired Programming
+
+Coding
+
+* The customer is always available
+* Code the unit test first
+* Only one pair integrates code at a time
+* Leave optimization until last
+* No overtime
+
+Testing
+
+* All code must have unit tests
+* All code must pass all unit tests before it can be released.
+* When a bug is found, tests are created before the bug is addressed (a bug is not an error in logic; it is a test that was not written)
+* Acceptance tests are run often and the results are published
+
+
+### principles
+
+* Feedback
+* assuming Simplicity
+* embracing change
+
+
+Fine-scale feedback
+* Pair programming[5]
+* Planning game
+* Test-driven development
+* Whole team
+
+Continuous process
+* Continuous integration
+* Refactoring or design improvement[5]
+* Small releases
+
+Shared understanding
+* Coding standards
+* Collective code ownership[5]
+* Simple design[5]
+* System metaphor
+
+Programmer welfare
+* Sustainable pace

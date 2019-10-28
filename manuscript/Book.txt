@@ -2,10 +2,12 @@ introduction.txt
 chapter1.txt
 chapter2.txt
 chapter3.txt
-agile.txt
 lean.txt
+agile.txt
 devops.txt
 scrum.txt
-bigidea.txt
+kanban.txt
 toc.txt
+xp.txt
+bigidea.txt
 conclusion.txt

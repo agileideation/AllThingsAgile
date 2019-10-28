@@ -1,4 +1,4 @@
-# Chapter Two
+# Chapter Two - SAMPLE FORMATTING
 
 Here are some quick Markdown examples to get you started.
 

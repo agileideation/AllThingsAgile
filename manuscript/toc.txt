@@ -1,3 +1,11 @@
 # Theory of Constraints
 
 Eliyahu Goldratt is cool
+
+### Five Focusing Steps
+
+1. Identify the system's constraint(s).
+2. Decide how to exploit the system's constraint(s).
+3. Subordinate everything else to the above decision(s).
+4. Alleviate the system's constraint(s).
+5. Warning! If in the previous steps a constraint has been broken, go back to step 1, but do not allow inertia to cause a system's constraint.

@@ -6,3 +6,30 @@ No such thing as Kanban vs Scrum!
 To Do, Doing, Done
 Set Wip Limits
 Pull work/queuing
+
+Principle 1: Start With What You Do Now
+
+Principle 2: Agree to Pursue Incremental, Evolutionary Change
+
+Principle 3: Respect the Current Process, Roles & Responsibilities
+
+Principle 4: Encourage Acts of Leadership at All Levels
+
+
+### Practices
+
+1. Visualize the Workflow
+2. Limit Work in Progress
+3. Manage Flow
+4. Make Process Policies Explicit
+5. Feedback Loops
+6. Improve Collaboratively (using models & the scientific method)
+
+
+* Everyone is on the same page
+* Kanban reveals bottlenecks in your workflow
+* Kanban brings flexibility
+* Your team gets more responsive
+* You focus on finishing work to boost collaboration and productivity
+
+stop starting and start finishing

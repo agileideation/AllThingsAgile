@@ -20,17 +20,30 @@ NOTE: Talk about how in Scrum book he talks about Agile not being a methodology
 
 ### We are uncovering better ways of developing software by doing it and helping others do it.
 
+[TODO: Write about this]
+
 Through this work we have come to value:
 
 ### Individuals and interactions over processes and tools
 
+[TODO: write about this]
+
 ### Working software over comprehensive documentation
+
+[TODO: write about this]
 
 ### Customer collaboration over contract negotiation
 
+[TODO: write about this]
+
 ### Responding to change over following a plan
 
+[TODO: write about this]
+
 ### That is, while there is value in the items on the right, we value the items on the left more.
+
+[TODO: write about this]
+
 
 
 ## Principles
@@ -39,24 +52,50 @@ We follow these principles:
 
 ### Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
+[TODO: write about this]
+
+
 ### Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+
+[TODO: write about this]
+
 
 ### Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 
+[TODO: write about this]
+
 ### Business people and developers must work together daily throughout the project.
+
+[TODO: write about this]
 
 ### Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 
+[TODO: write about this]
+
 ### The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+
+[TODO: write about this]
 
 ### Working software is the primary measure of progress.
 
+[TODO: write about this]
+
 ### Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+
+[TODO: write about this]
 
 ### Continuous attention to technical excellence and good design enhances agility.
 
+[TODO: write about this]
+
 ### Simplicity--the art of maximizing the amount of work not done--is essential.
+
+[TODO: write about this]
 
 ### The best architectures, requirements, and designs emerge from self-organizing teams.
 
+[TODO: write about this]
+
 ### At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+[TODO: write about this]
