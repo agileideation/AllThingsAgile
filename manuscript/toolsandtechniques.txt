@@ -2,6 +2,8 @@
 
 This chapter is going to be a mess for a while I think. Maybe just a list and brief summary/how it can be used. Maybe try to categorize or put along a timeline.
 
+ALL OF THE BELOW CONTENT WILL NOT BE GOING INTO THIS BOOK. Maybe future books... it's a lot of content to cover.
+
 * Project vision & product vision board
 * Project charter
 * Team charter
