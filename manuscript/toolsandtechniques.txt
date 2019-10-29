@@ -35,3 +35,4 @@ This chapter is going to be a mess for a while I think. Maybe just a list and br
 * site Mapping
 * journey Mapping
 * roman pichler strategy canvas post
+* oblique straegies
