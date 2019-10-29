@@ -37,4 +37,4 @@ ALL OF THE BELOW CONTENT WILL NOT BE GOING INTO THIS BOOK. Maybe future books...
 * site Mapping
 * journey Mapping
 * roman pichler strategy canvas post
-* oblique straegies
+* oblique strategies
