@@ -38,3 +38,46 @@ ALL OF THE BELOW CONTENT WILL NOT BE GOING INTO THIS BOOK. Maybe future books...
 * journey Mapping
 * roman pichler strategy canvas post
 * oblique strategies
+* customer persona
+* empathy map
+* customer journey Maps
+* product roadmap
+* service blueprint
+* visual story Maps
+* lean UX Canvas
+* look mock analyze
+* retrospectives
+* 1:1 meetings
+* user story map framework
+* pi planning
+* features audit
+* cost-benefit analysis
+* feature Canvas
+* mind Maps
+* personal map
+* concept Maps
+* fishbone diagram
+* 3 hour brand sprint
+* 5 whys
+* affinity diagram
+* smart goals
+* brain writing
+* project Canvas
+* business model Canvas
+* strategy Maps
+* SWOT analysis
+* value chain
+* balanced scorecard
+* porter's five forces
+* PEST analysis
+* BCG matrix
+* startup Canvas
+* lean Canvas
+* app development Canvas
+* wardley mapping Canvas
+
+### retrospectives
+
+* start/stop/continue
+* loved, liked, lacked, longed for
+* mad/sad/glad
