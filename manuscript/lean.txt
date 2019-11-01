@@ -2,7 +2,7 @@
 
 This chapter is about Lean
 
-in the Scrum book he mentions that article about finding Lean and Taiichi Ono
+It's funny to me how little people talk about Lean when Lean is really the origin of most of this stuff that we do. In the Scrum book he mentions that article about finding Lean and Taiichi Ono. Kanban is based on Lean. Even the Theory of Constraints and Lean came up at the same time. No matter how you slice it, Lean came first, it is the granddaddy of them all. And it should be more respected and valued, because the principles and concepts behind lean tie directly into this Agile software development thing we are trying to do.
 
 [TODO: Lean values and principles]
 
