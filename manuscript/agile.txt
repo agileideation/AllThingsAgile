@@ -20,7 +20,25 @@ NOTE: Talk about how in Scrum book he talks about Agile not being a methodology
 
 ### We are uncovering better ways of developing software by doing it and helping others do it.
 
-[TODO: Write about this]
+This is the most important line in the Agile Manifesto, but one that many people blow by without thinking about it. This sentence has not changed since the Agile Manifesto was published in 2001, and I suspect it may never change. The manifesto does not start "we have discovered the perfect way of developing software and everyone should do it our way".
+
+This line is extremely clear, in my opinion, but let's break it down:
+
+* We are uncovering
+* Better ways of developing Software
+* By doing it
+* and helping others do it
+
+**"We are uncovering"** tell us that even these people, the experts in their field, do not feel they have found the answer, it is still exploratory, they are still learning, we are still discovering and uncovering.
+
+**"Better ways of developing software"** not the best way of developing software, not the prefect way, not the one way, but BETTER ways. I think this part gives a lot of indication that they want to continuously explore, and just because a way or method was better for one group of people, may not work for someone else. It's better ways of developing software because we should always be uncovering improvements, things that work for specific problem spaces. There will never be one best way, but we can always identify better ways of working. Especially as we change teams or the team changes around us or we work with new people we may discover things that are 'better' in that instance that were not 'better' or even possible in other situation.
+
+**"By doing it"** not by talking about it or thinking about it, but identifying something we think will make software development better and then actually trying it. Actually eating our own dog food. Actually practicing what we preach. If I think I've discovered a better way of developing software I should try it, whether it's on my own if I am a developer, or encouraging the developers I work with to do it, the only way to take something that is an idea and turn it into actually "uncovering" the "better way to develop software" we have to try it out and see how it works. Maybe something we think will work, once we try to do it ourselves, it won't work out.
+
+**"And helping others do it"** This isn't about figuring this stuff out in a vaccuum and becoming that mythical 10x developer who is the only one who knows how to do something. It may lead to some job security, but you've now become a bottleneck, a Brent (Phoenix Project). And in some cases you may actually work yourself out of a job if you aren't willing to share - if it were up to me and someone kept information to themselves and refused to share, they would not be long on my team. We help others do it because what worked for us may not work for others. We help others do it because I may have come up with a great idea that works great, but there is missed potential or ways to make that idea EVEN BETTER but I don't get that additional information and extra brain power because I refuse to share.
+
+This first line in the agile manifesto says that our work is never done, we are constantly learning, experimenting, exploring, and discovering. It says that we are always looking for better ways to do things, small improvements, not accepting that this way is a "best practice", but maybe that it's a "leading practice" - maybe it is the best, maybe it's just better and someone else can make it better still and get it closer to being the best. We can only do this by trying and experimenting, and failing, and trying again, and WE MUST SHARE what we learn because anything in isolation is not as good as when you can get more brain power working to solve the problem. Someone who looks at things differently than you may come up with the perfect solution to your problem, but if you live and work in a vaccuum and don't share and learn from others you will never reach the best you can be.
+
 
 Through this work we have come to value:
 
