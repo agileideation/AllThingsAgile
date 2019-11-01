@@ -1,6 +1,6 @@
 # DevOps
 
-This chapter is about DevOps
+This chapter is about DevOps. DEVOPS IS SO MUCH MORE THAN THE TOOLS! DevOps is so much more than CI/CD pipelines. In this chapter we'll talk about the 3 Ways as popularized by the DevOps Handbook, the 5 Ideals which will be a main focus in the upcoming Unicorn Project, we'll talk about the CALMS acronym, and yes, we will talk about the tooling and pipelines that make DevOps actionable.
 
 [TODO: 3 ways]
 
