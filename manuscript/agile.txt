@@ -40,11 +40,19 @@ This line is extremely clear, in my opinion, but let's break it down:
 This first line in the agile manifesto says that our work is never done, we are constantly learning, experimenting, exploring, and discovering. It says that we are always looking for better ways to do things, small improvements, not accepting that this way is a "best practice", but maybe that it's a "leading practice" - maybe it is the best, maybe it's just better and someone else can make it better still and get it closer to being the best. We can only do this by trying and experimenting, and failing, and trying again, and WE MUST SHARE what we learn because anything in isolation is not as good as when you can get more brain power working to solve the problem. Someone who looks at things differently than you may come up with the perfect solution to your problem, but if you live and work in a vaccuum and don't share and learn from others you will never reach the best you can be.
 
 
-Through this work we have come to value:
+**Through this work we have come to value:**
+
+In the manifesto they use a specific format of X OVER Y. They talk about it at the end, but many people seem to take this as the things on the right don't matter, aren't important, should be eliminated, or ignored. NOT AT ALL. The key thing here is that historically there has been too much focus and concern for the things on the right, while ignoring the things on the left. As we jump in you'll see many of the items on the right lead to waste, while the items on the left lead to value.
 
 ### Individuals and interactions over processes and tools
 
-[TODO: write about this]
+Individuals and interactions are how things get done! If you want to clearly understand something, someone's point of view, you need to be 1 on 1 and interacting directly. Think about the difference between an Ikea manual, having someone tell you how to build it over the phone, watching a video, having someone explain it over video chat, or having someone with you in person walking you through how to put that dresser together. You can be successful with all of them, but any with direct interaction will be better, and having the person in the room will be the best.
+
+Processes and Tools is interesting to me because that is what's easy for businesses and enterprises to put into place and measure. If something breaks down as a result of communication that is hard to measure, if you say this is the process you follow for this, we want to see all this documentation and material it's easy to measure that it was completed (assuming people don't fudge or game the system, which will always happen). A process feels concrete and solid, but process gets in the way. When you have a 50 step process to follow, but only 18 of the steps apply to your team/project/deployment/release, but you have to do them anyway, it slows you down, makes things harder. It also causes breakdown in communication because there becomes an assumption that it doesn't matter if I say that here or mention that now because the process will catch it or prevent it. I may feel I don't have to talk to you about what I want because I wrote it down, so you should just understand my meaning. Just the knowledge loss between my brain as I write this and the input of whoever might read it is tremendous.
+
+Tools get in the way. Think about delays because your video meeting app didn't work quite right. Or participation in those meetings. "Sorry I was on mute". Have paper and stickies ever really let you down?
+
+Put people and communication first. That is how things get done, how they get done right.
 
 ### Working software over comprehensive documentation
 
