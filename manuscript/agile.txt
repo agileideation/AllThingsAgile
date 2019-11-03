@@ -72,11 +72,19 @@ Work with your customers! The #NoEstimates movement takes it so far as to say "W
 
 ### Responding to change over following a plan
 
-[TODO: write about this]
+Dwight D Eisenhower once said "following a plan is useless, planning is indispensible" ***CHECK THIS***
+
+No one knows what is going to happen, and no plan is going to be able to keep up with reality. I have never seen a plan that was followed perfectly or had all the required things happen to make sure it became reality. This applies to everything - vacations, hikes, work, daily plans, weekly plans, cooking competition shows - things go wrong, the unexpected happens. Anything that can happen will happen.
+
+So agile isn't as much as about wanting change or thinking it is great, it's about the fact that change is inevitable and you should expect it and be prepared to respond to it. Be flexible. I actually find agile is a LOT MORE planning, it's just shorter time scale planning and letting the bigger picture or longer term details stay more generic and get filled in as the project goes.
+
+You know the least at the start anyway, so how can your plan be any good? If you've never run a day in your life before and decide to train for a marathon, pick this perfect plan, and get started only to discover 3 days in the volume is too great and you are too sore and tired to do the next days workout, would you stick to the plan? NO! But if you have an overarching plan and objectives (I need to progress this much and in this way) but are flexible in the specifics you can adjust the plan based on what your body can take.
+
+This works the same way with software development. Maybe you're blocked, maybe something isn't possible, maybe the market has shifted and now the original plan provides no value, why would you stick with that plan? Why would you double down on something that is no longer worth spending time and energy on.
 
 ### That is, while there is value in the items on the right, we value the items on the left more.
 
-[TODO: write about this]
+This can't be re-iterated enough. Too many people read the manifesto and think Agile means NO documentation at all, no processes and tools. Some people read it and think it means no planning. It doesn't mean any of those things, it just means if you aren't putting people, communication, working software, and flexibility first you are selling yourself short and blocking yourself from reaching your maximum success potential.
 
 
 
