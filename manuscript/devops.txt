@@ -33,3 +33,7 @@ This chapter is about DevOps. DEVOPS IS SO MUCH MORE THAN THE TOOLS! DevOps is s
 [TODO: basics on CI/CD pipeline, tooling, self service operations, self service audit, automated testing]
 
 Build, Deploy and Run - automation
+
+Reduce toil!
+Self-service operations
+Self-service audit capabilities
