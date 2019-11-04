@@ -94,29 +94,29 @@ We follow these principles:
 
 ### Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
-[TODO: write about this]
+As software craftspeople the final outcome is to deliver to the user something that provides them value and helps them accomplish whatever they were wanting to. If not for that why do we have jobs in the first place. Facebook and Google wouldn't exist if it hadn't wanted to provide value to users (though the customers are now advertisers instead of users). Continuous delivery is about not keeping unfinished work in the pipeline, that being anything that isn't done and deployed into production is of no value or use to anyone, you aren't even getting as much feedback on it as you could be (have you ever tried to get users to use an alternate version by giving them an alternate URL? much easier to switch them over and roll back or even better fail forward, but hopefully your pipeline doesn't allow that kind of quality through in the first place). And that's the emphasis on valuable software - software that is buggy or doesn't work as expected or doesn't provide the desired value is not valuable software!!!
 
 
 ### Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 
-[TODO: write about this]
+To me, in a way, this has a lot to do with stoicisim. Change is inevitable, what is needed changes as people experience it (just as building something changes how you want to develop it). If you follow the first principle and deliver early to the customer, then features which you may feel are incomplete may be meeting the customers needs and do not need to be finished any further (as long as there aren't any bugs!) If we are focused on value and competitive advantage, then we need to be flexible enough to adjust the requirements as we discover what works, and what customers and end users like.
 
 
 ### Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 
-[TODO: write about this]
+As we get into DevOps we'll see a lot more of this, but this principle focuses on defining what the continuous deployment above really means. There is this almost ideal build it on the couple (2) weeks, up to a couple (2) months, which when this was written would have been a big departure from the 6-12 months of delays before having working software. The focus on a shorter timescale is about having tighter and faster feedback loops and getting customer input and end user feedback as soon as possible so you can pivot early or adjust and make improvements. sometimes shorter isn't always the goal, though, if you think about working out weighing yourself daily can be disheartening because your bodyweight can vary as much as 5lbs in a day because of fluctuations in water and food in your system. Go for the shortest reasonable timescale possible.
 
 ### Business people and developers must work together daily throughout the project.
 
-[TODO: write about this]
+How else can you get fast feedback? How else can you know you are building the right thing? If a developer is going to have work finished to show off, or has questions about where a button should be or what color something needs to be, if the business people, those people representing the product aren't involved on a daily basis, then time is being wasted on the wrong thing, if we could have learned sooner that we didn't need to build something we shouldn't build it in the first place!
 
 ### Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 
-[TODO: write about this]
+If you can paint a compelling vision and clearly express what outcomes you want, and bring in people who are motived to work hard and do a good job and solve problems, and you give them the environment they need to be successful, and then whatever support they need to overcome blocks and impediments, those people will work together and create whatever is needed to solve the problem they need to solve. If there was excessive up front planning and too many cooks what is built never matches those original plans anyway, so why not just let the team build things on the fly and get fast feedback as you go. If you don't support your teams, they won't be able to succeed. If they don't have the environment they need to succeed, they will at best deliver something, at worst fail miserably. Imagine constant blocks and impediments that aren't resolved quickly and gracefully at a management level and think about how much that slows a team down.
 
 ### The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 
-[TODO: write about this]
+Many places will claim that they can be distributed or remote or flexible working conditions and experience success, and I'm not going to say they don't experience success, but there is a barrier to communication that is added when you are not face to face. Already humans are pretty bad at communicating with one another clearly (see crucial conversations, fierce conversations, and radical candor), when we take away seeing each others faces, when we add the difficulty of calls cutting out, internet dropping out, it hard to hear or understand due to office volume and your headsets ability to cut through the din. You have so many more options for communication when you are face to face also - you can draw, diagram, map with ease on a white board or using sticky notes, tools online are much more difficult to use no matter how well they are designed. There is something about handwriting and the tactile movement of taping up 3x5 cards or placing sticky notes that reinforces the learning and enforces shared understanding and ubiquity of language.
 
 ### Working software is the primary measure of progress.
 
