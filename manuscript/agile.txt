@@ -4,9 +4,6 @@ This chapter is about Agile.
 
 I haven't talked to anyone on the agile manifesto, but I have read their books and tweets and blog posts and listened to podcasts and talks and watched videos as much as I can, this is my best interpretation and understanding, and how I personally apply this.
 
-[TODO: VALUES/Manifesto]
-
-[TODO: Principles]
 
 This chapter I will give very brief history on Agile, then go through values and principles and a section for each.
 
@@ -14,6 +11,7 @@ NOTE: Talk about how in Scrum book he talks about Agile not being a methodology
 
 ## Brief history
 
+[TODO TODO]
 
 ## Values and Manifesto
 
@@ -140,4 +138,4 @@ There's a terrible saying that "what one developer can do in one month, two deve
 
 ### At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-How do you really get better at something? Say running, for example. Do the best runners just go out and run every day, some distance, with no intent or purpose? NO! They track and measure their progress, have a progression and steps and phases to get where they need to go. "My plan says to do distance running, but my speeds are much slower than I need them to be" maybe you need to adjust and do more speed work to get faster, and then work on distance at that speed. How would you know if you aren't tracking, then looking at that data you are collecting and reflecting on what you've done, then adjusting and tracking and reflecting again to see if those adjustments are working. There's the concept of the PDCA cycle - plan, do, check, act - make a plan, try to the plan, check the results of the plan, then act on those results and make a new plan that incorporates what you learned or discovered. You must build this in and make time for this as this is one of the easiest things to let go of or let slip first. It is hard to really reflect on yourself and be honest with yourself and change things about yourself to be better, and it is easy for us as humans. 
+How do you really get better at something? Say running, for example. Do the best runners just go out and run every day, some distance, with no intent or purpose? NO! They track and measure their progress, have a progression and steps and phases to get where they need to go. "My plan says to do distance running, but my speeds are much slower than I need them to be" maybe you need to adjust and do more speed work to get faster, and then work on distance at that speed. How would you know if you aren't tracking, then looking at that data you are collecting and reflecting on what you've done, then adjusting and tracking and reflecting again to see if those adjustments are working. There's the concept of the PDCA cycle - plan, do, check, act - make a plan, try to the plan, check the results of the plan, then act on those results and make a new plan that incorporates what you learned or discovered. You must build this in and make time for this as this is one of the easiest things to let go of or let slip first. It is hard to really reflect on yourself and be honest with yourself and change things about yourself to be better, and it is easy for us as humans.
