@@ -2,25 +2,45 @@
 
 This chapter is about DevOps. DEVOPS IS SO MUCH MORE THAN THE TOOLS! DevOps is so much more than CI/CD pipelines. In this chapter we'll talk about the 3 Ways as popularized by the DevOps Handbook, the 5 Ideals which will be a main focus in the upcoming Unicorn Project, we'll talk about the CALMS acronym, and yes, we will talk about the tooling and pipelines that make DevOps actionable.
 
+DevOps has so much based on Lean thinking, even The Phoenix Project is based on The Goal by Eliyahu M Goldratt in which he described Theory of Constraints in a novel format.
+
 [TODO: 3 ways]
 
 ### The First Way: Systems Thinking
 
+When making improvements you need to think about the whole system and not specific areas. Systems thinking means you optimize the whole. If you only optimize things for your area, you will be impeded by bottlenecks up or down stream of you. By optimizing the entire system you ensure that you focus on the areas that need to be focused on.
+
 ### The Second Way: Amplify Feedback Loops
+
+Amplify feedback loops can mean shortening them, making them move faster, or making them louder and more obvious, or even just responding to them more quickly. From a DevOps perspective that might mean improve monitoring/alerting to get more useful feedback, it might mean get faster feedback and input from the customer/end user so you can deliver value faster, it might mean finding things that are slowing the development team down and automating, simplifying, or making them self-service.
 
 ### The Third Way: Culture of Continual Experimentation and Learning
 
+When everyone follows the first and second way, and you give a culture of experimentation and learning, that is when things really go into high gear. If I am empowered to experiment with a focus on the system as a whole and having certain information in my face, or being able to learn from it and get the results quickly, I can rapidly try new things and experiment, no matter how small the experiment, to measure and find out is happening.
+
+Learning works both ways. I can continually learn by trying new things, and I can help others learn by teaching them. As I teach I will learn as well. If I teach to someone else who is just learning, I could pass off something that no longer excites or challenges me, but is just right to put them into a state of flow. Now I am free to move onto something that has those qualities for me, and move the organization forward.
+
 [TODO: 5 ideals]
 
-### The First Ideal—Locality and Simplicity
+### The First Ideal — Locality and Simplicity
 
-### The Second Ideal—Focus, Flow, and Joy
 
-### The Third Ideal—Improvement of Daily Work
 
-### The Fourth Ideal—Psychological Safety
+### The Second Ideal — Focus, Flow, and Joy
 
-### The Fifth Ideal—Customer Focus
+
+
+### The Third Ideal — Improvement of Daily Work
+
+
+
+### The Fourth Ideal — Psychological Safety
+
+
+
+### The Fifth Ideal — Customer Focus
+
+
 
 [TODO: CALMS]
 
