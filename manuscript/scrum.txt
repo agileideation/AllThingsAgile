@@ -34,32 +34,64 @@ Prioritization is always challenging, but it can be done, and you can learn how 
 
 **Time-boxing—This principle describes how time is considered a limiting constraint in Scrum, and used to help effectively manage project planning and execution. Time-boxed elements in Scrum include Sprints, Daily Standup Meetings, Sprint Planning Meetings, and Sprint Review Meetings.**
 
+Time boxing is an interesting concept, there is value in time boxing, but there can also be challenges or risk. One of the things about Scrum is it doesn't suggest that it will solve your problems, rather it will make them more visible and bring them to attention. By time-boxing you do a few things that are positive 1) limit the scope for the duration of the timebox 2) put boundaries on the work 3) make team commitment matter more. Some of the risks are around work not fitting into the timeboxes or project management and business partners using the time boxes to make unfounded calculations and estimates.
 
+If a sprint is bound to 2 weeks when the team is planning the sprint, they will be more encouraged to call out work that is too large, difficult, or not understood well enough to fit into that timebox. It also creates a nice cadence for the team of knowing when they will plan, when they will work, and when they will reflect and improve. This breaks planning and execution down into chunks that are easier to manage and easier to complete. We also want to time-box the ceremonies of Scrum so they do not become excessive, and to try to enforce the idea that we need to focus and get value out of this meeting because we will run out of time. Timeboxing the daily stand-up to 15 minutes encourages people to give only the most valuable information, or only bring up the things that are impeding them, and not giving excessive status updates with minimal or no value. Time boxing the sprint planning puts a sense of urgency around it and should influence people to be more prepared coming into the meeting - if we spend the whole time arguing about what priority something is in, no planning will happen. If we spend too much time in the weeds on edge cases, the planning won't be sufficient for the team to get started on the work. Sprint Review meetings will include a demo, but also a lot of discussion about what the team learned, what problems they encountered, what the business has learned, how the market has changed, how the regulations have changed, etc. and then discussing how all of those things will impact the plan and influence what should be done next. Again by keeping this tight we should only get valuable input and reduce distractions or tangents that aren't related to the core topic.
 
 
 **Iterative Development—This principle defines iterative development and emphasizes how to better manage changes and build products that satisfy customer needs. It also delineates the Product Owner’s and organization’s responsibilities related to iterative development.**
 
+Iterative development is a core principle of Scrum, and really Agile and Lean and anything related to them. We want to build the minimum required to get valuable input and feedback to influence what we build next. In my experience most people do not know exactly how they want software to look, what they want it to do, how they want it to function, and how they want to interact with it until they've actually got their hands on it. Something may sound great in theory or as you describe it, but maybe it doesn't work exactly as expected, or solve the problem the way it was believed it would. Iterative development allows us to get constant feedback on small parts of the software, adapt, and adjust based on that feedback, without creating undue stress or pressure because now too many things are not right and need to be changed, than can be changed in the time remaining. Iterative development also helps make it easier to pivot or adjust based on things changing. If we had a laundry list of 200 features and after the first 20 are built the PO realizes the market is shifting in a completely different direction and those remaining 180 features are not as valuable as these 3 new features ideas, incremental development means we have those 20 features working and ready to go out, and there is minimal or zero risk associated with deprioritizing those remaining 180 features. This also allows us to be more flexible and adapt to the changing conditions, and now iterate and get small chunks of valuable functionality and features out the door as soon as possible, instead of causing us to fall far behind the market trends.
 
 
 
 ### VALUES
 
 * Courage
+
+
 * Focus
+
+
 * Commitment
+
+
 * Respect
+
+
 * Openness
 
 
 ### scrum
 
 * Product backlog
+
+I like to think of the product backlog as the set of features, functionality, or other capabilities that has been accepted as valuable and desired, and we want to and intend to build it. Some would say that ALL cards/stories that come in from the business partners are part of the product backlog, but this is a recipe for disaster and having 500 stories sitting somewhere, the majority of which will never be looked at or built. I do not consider all items to come in as part of the backlog, I consider that first step in the intake process to be the "option pool" or things that we are considering, but do not feel committed to doing yet. That's not to say items can't fall out of the backlog, but ideally you only want those items that you think you will actually complete to move up to the product backlog. There is an implicit assumption that the backlog is going to get done, and the things in the backlog is work that someone wants to see complete. By reducing the size of the backlog and considering all work as options until it is truely going to be addressed, this helps break that misconception and makes it easier to toss out old stories or things that aren't ever going to be worked. Alternatively, if you keep those items in the option pool, you have more flexibility in measurement for when something has actually entered the system and the flow, and you won't throw off your metrics because you're counting the age of all stories, even those that were put in 5 years ago and really aren't going to get done (but business/PO refuses to delete, for whatever reason)
+
 * Sprint planning
+
+There are so many different beliefs about sprint planning and how these meetings should go, so I'm going to try to address a few concepts how sprint planning can develop over time.
+
+For a high performing team who is reviewing items in the backlog, raising questions, and getting stories ready to work outside of any structured meeting or cadence, sprint planning may just be a 15 minute meeting. If sprint review is going really well and everyone understands how the plan or backlog have changed, then maybe the sprint planning meeting is as simple as pulling the top 6-10 items off the product backlog and making those the sprint commitment (pulling into the sprint backlog).
+
+Most teams are not this good, so many sprint planning meetings turn into 1-2 hours of talking about what stories to pull in, and then another 1-2 hours refining the stories, pointing them, getting questions answered, and making them ready to work. I think there are a lot of problems with this model because often this is the first time anyone has seen the story. The developers may not have been able to look into the system or done some preliminary research to understand how complex this request actually is, and may request spikes or provide point estimates that are just guesses. It seems that these meetings can also get kind of boring, and really no value is being delivered during the meeting. Ideally with a good and available product owner, and a team that is able to manage themselves, they would be out there maybe 2 hours a week looking at the potential upcoming stories and raising questions, posting estimates, or requesting clarification so that by the time sprint planning happens there is minimal discussion and most of the questions or clarifications have already been determined.
+
 * Sprint backlog
+
+The sprint backlog is the work the team has committed to for the current sprint, and really that's it. So as the team talks with the product owner about the stories and the priority order, and how much they can take on, maybe they pull story 1, but story 2 is too big or not understood well enough, then story 3-6, and they feel they are at capacity. Those stories that were selected are now the sprint backlog. Aside from any independent refinement the team does not worry about other stories in the backlog during the sprint, they only work on what they work on. Ideally this means no interruptions and nothing new is added during the sprint unless the team completes other work and has sufficient capacity to pick up additional stories. So really that's it, a more narrow and specific set of stories piked out of the backlog that will be the focus for that specific sprint.
+
 * Scrum team
+
+
 * Daily Scrum / Standup
+
+
 * Sprint Review
+
+
 * Increment/ Product Increment
+
+
 * Sprint Retrospective
 
 ### roles
