@@ -12,3 +12,4 @@ xp.txt
 bigidea.txt
 conclusion.txt
 toolsandtechniques.txt
+glossary.txt
