@@ -1,19 +1,22 @@
 # Kanban
 
-Kanban is not a framework. Is it a methodology?
-No such thing as Kanban vs Scrum!
+Kanban is not a framework. Is it a methodology? I think it's a tool with guidelines to follow around it.
+No such thing as Kanban vs Scrum! Scrum only addresses one part of the teams process and often kanban boads are used for scrum, if you explicitly use WIP limits in combination with Scrum you may find good benefits. Also Kanban is often used up and downstream of the Scrum Team's process to queue work up or to deploy it out to production.
 
-To Do, Doing, Done
-Set Wip Limits
-Pull work/queuing
+At it's most basic kanban consists of three columns: To Do, Doing, Done. You will set Set Wip Limits on one or more of the columns and not pull in new work if the WIP is at or above it's limit, if the WIP has already been exceeded you need to allow work to drain/flow out of that column before additional work can be started. Work is always pulled instead of pushed, which often means there are queues that need to be managed. This can slow certain workstations and can result in idle time, but the goal is improved flow and reduced inventories, not necessarily maximizing use of resources or utilizing 100% capacity of a team.
 
-Principle 1: Start With What You Do Now
+Some standard principles around Kanban are:
+**Principle 1: Start With What You Do Now**
+Since Kanban does focus on incremental improvement and improvement to the system as a whole, the only way to identify where focus and effort should be pointed is to start with where you are right now. The best way to start Kanban is to set up a board that matches the current process exactly. If there are 26 gates and approvals, maybe there are 26 separate columns at the beginning. You want to see where work slows down, gets stuck, or delayed, or doesn't move forward. Maybe there are steps that are redundant and can be eliminated - the only way to know for sure is to visualize and track everything. Once you see how the work is flowing, only then can you attempt to improve it.
 
-Principle 2: Agree to Pursue Incremental, Evolutionary Change
+**Principle 2: Agree to Pursue Incremental, Evolutionary Change**
+This leads to principle 2 which is we agree to pursue incremental, evolutionary change otherwise continuous improvement, kaizen. We only do things in small chunks and we adapt and change based on what we discover. If we try to change too much too fast or at one time it may be too much, it may weigh down the system, it may break something somewhere else, or people may resist, not buy in, not understand, or just not get on the bus. If we do things in small incremental ways then we can make sure they work, get peoples input, allow change to be a collaborative process, and make sure whatever we are doing is the best thing for everyone and won't cause problems in other areas.
 
-Principle 3: Respect the Current Process, Roles & Responsibilities
+**Principle 3: Respect the Current Process, Roles & Responsibilities**
 
-Principle 4: Encourage Acts of Leadership at All Levels
+
+**Principle 4: Encourage Acts of Leadership at All Levels**
+
 
 
 ### Practices
