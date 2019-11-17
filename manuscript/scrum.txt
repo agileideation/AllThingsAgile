@@ -102,9 +102,11 @@ If part of the value is helping our business partners and the product owner make
 
 * Increment/ Product Increment
 
+The thing that is done at the end of the sprint is the increment or product increment. Whatever functionality, new features, bug fixes, or any other changes made that are accepted by the product owner and/or stakeholders is considered the product increment. Ideally this is a releasable feature no matter how small the change so we can start getting immediate feedback, and to reduce our risk from releasing too many changes at the same time.
 
 * Sprint Retrospective
 
+After the sprint has ended, and before the next sprint begins, the sprint retrospective acts as a break, a pause to reflect and identify ways to improve as a team. The most common (and most basic) retrospective is the "what went well, what did not go well, what should we change" where the team reflects on those three categories and decides where to focus. Ideally the team will focus on one experiment at a time, or put a better way the team will agree to focus attention on improving in one specific area together. Since sprints are short and the experiments are usually small, this provides lots of opportunities to make small changes, validate if they worked as desired, and adjust and adapt based on the findings and learnings. I think of the retrospective as the place for the scrummaster to get to flex their wings and coach, facilitate, and train - this should all be done in service of the scrum team and a scrum master who only does what they desire instead of thinking about what the team needs and finding a way to help get them there faster and easier is not doing their job. This is a good time for the scrummaster to get feedback on how they can do their job better and be more effective.
 
 ### roles
 
