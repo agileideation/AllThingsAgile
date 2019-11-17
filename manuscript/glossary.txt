@@ -1,4 +1,4 @@
-#glossary
+# glossary
 
 Agile and Software Development Glossary
 
