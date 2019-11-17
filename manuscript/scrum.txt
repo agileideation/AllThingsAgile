@@ -82,17 +82,29 @@ The sprint backlog is the work the team has committed to for the current sprint,
 
 * Scrum team
 
+In Scrum the Scrum Team is made up of the Product Owner, ScrumMaster, and development team. While the team needs to understand who their products serve, and how they fit into the larger organization, the structure of a Scrum Team helps to insulate the team during the sprint to promote focus and reduce distractions. The scrum team is accountable for the work they produce especially as concerned to quality. Also the Scrum Team is the unit that works at a more local level focusing on improvements and ways to be more productive, efficient, and happy.
+
+The Scrum Team needs to be aware of how they fit into the larger organizational picture and teams must be encouraged to share, trade, and collaborate to maximize orgnaizational effectiveness. Too often teams become isolated either to themselves or to a sub-organization, and then learnings are not shared and spread through the organization as a whole.
 
 * Daily Scrum / Standup
 
+In order to ensure the team is communicating and able to coordinate and sync up the Daily Scrum or Daily Standup is a short (15 minutes) meeting that happens daily. The most traditional form for the Daily Scrum is the 3 questions formed as "what did you do yesterday, what are you doing today, any blocks or impediments?". Anything more detailed or unrelated to those three questions should be carried into the 16th minute - some teams block extra time after the standup to work on problem solving. Other teams may just grab each other following the meeting or later in the day to help overcome challenges.
+
+The daily scrum, in my opinion, is actually an anti-pattern. That's not to say it isn't useful and can be effective, but it is a sign of team dysfunction. Ideally teams communicate continuously and collaborate constantly, in which case a daily standup shouldn't be necessary.
 
 * Sprint Review
 
+The sprint review is, I think, one of the most important but misunderstood and poorly run meetings that exists. Most people look at the sprint review as a demo session - if you are demoing for the first time, or only doing demos in the sprint review there is a much bigger dysfunction going on with that team. Work should be demoed as soon as it as finished, or as close as possible, to get immediate feedback and shorten feedback loops as much as possible. If a team is holding work back until the sprint review to demo and get feedback, then there is not only a missed opportunity, but I bet they pulled and started more work that if it also has negative feedback, they'll have 2 things they have to rework, which requires regaining footing and context switching. If they had gotten feedback immediately then they could have made any necessary changes before their brain had moved on to a new task.
+
+The sprint review is much more than demoing though, and this is what I think people miss. What did we learn over the last sprint? I don't mean what went well or what didn't and what things about our process and how we work do we need to change (that's what the retrospective is for) - I mean "oh, it's way more difficult to build this calendar switcher than we thought it was" or "we thought it would only take a few days to get the database running, but it's taking much longer" or "there was a bug reported this week and when I looked into it, it turns out there is a whole section of code that is in bad shape and will make fixing difficult" - what did we learn, what did we discover, what information is going to impact or change or influence our plan going forward? What information do we need to move into Sprint Planning effectively. Maybe new stories need to be created, or things we thought were low priority become higher priority, or maybe the market has moved or the company has changed gears or something else has happened that means we want and need to do something differently than we originally planned or intended.
+
+If part of the value is helping our business partners and the product owner make the best decisions about where to put our energy and resources - if we don't tell them what we discovered or what was different than we expected, how can we expect them to make good decisions? Maybe we got them 80% of the functionality they need, but if they think it's easy to build they want us to go to 100%, but if they understood that certain factors make it difficult, or more time and energy than the value they'll derive from it, maybe they'd rather put that effort towards something that helps them to achieve their goals.
 
 * Increment/ Product Increment
 
 
 * Sprint Retrospective
+
 
 ### roles
 
