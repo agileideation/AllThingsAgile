@@ -1,3 +1,320 @@
 #glossary
 
-glossary.txt
+Agile and Software Development Glossary
+
+Agile
+Agile is a set of values and principles. There are many frameworks, tools, and methodologies that can be categorized under the agile umbrella. Originated in 2001 when a group of leaders in software development gathered in Snowbird, UT to discuss alternative approaches to traditional, top-down management, waterfall method of building software. Agile is characterized by frequent iterations, short feedback loops, constant feedback. The Agile Manifesto is made up of 4 values and 12 principles:
+Values
+Individuals and Interactions OVER process and tools
+Working Software OVER comprehensive documentation
+Customer Collaboration OVER contract negotiation
+Responding to Change OVER following a plan
+
+Principles
+Highest priority is to satisfy the customer through early and continuous delivery of valuable software
+Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+Business people and developers must work together daily throughout the project.
+Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+The most efficient and effective method of conveying information to and within a development team is face-to-face conversation
+Working software is the primary measure of progress.
+Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+Continuous attention to technical excellence and good design enhances agility.
+Simplicity – the art of maximizing the amount of work not done – is essential
+The best architectures, requirements, and designs emerge from self-organizing teams.
+At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+Acceptance Criteria
+Acceptance Criteria are the conditions that a piece of software must meet to be accepted by the product owner, customer, or user. These are specified for each story and define the feature behavior that is expected when a feature is considered complete from the end-user’s perspective. Acceptance criteria should be written in clear, easy-to-understand language. For more complicated acceptance criteria with multiple conditions or where the starting state must meet certain conditions acceptance criteria can be written in “Gherkin Format”
+
+Backlog Refinement (Grooming)
+Backlog Refinement is the process by which large ideas or concepts are broken down into smaller independent pieces of work, and then clarified and defined to get them to a state that the development team understands and can pick them up and start work to deliver the functionality. This should happen continuously throughout the process, though some teams will dedicate specific time to work together and refine the items in the backlog. The term “Grooming” was used historically but has fallen out of favor due to some negative connotations related to illegal activity.
+
+Backlog
+There are multiple connotations to the word “backlog” please see Product Backlog, Sprint Backlog, and Option Pool for more specific information.
+BDD - Behavior Driven Development (and Gherkin Format)
+Behavior Driven Development is a software development process that encourages collaboration between developers, QA, and business participants. It encourages the use of conversation and concrete examples to create a shared understanding of how an application should behave. This concept grew from TDD – Test Driven Development – where TDD is focused on “building the thing right”, BDD is focused on “building the right thing”.
+In BDD each user story should have:
+A Title
+Explicit and clear
+Narrative
+A short introduction section is often written in the “As a, I want, So that” format
+Acceptance Criteria
+A description of each scenario of the story with the following structure:
+Given: the initial context at the beginning of the scenario
+When: the event that triggers the scenario
+Then: the expected outcome
+This can then be translated into a testing tool to perform automated testing to validate the behaviors in the system perform as expected.
+
+Bottleneck
+A bottleneck is a point of congestion in a production system. Bottlenecks are the primary point that is slowing a process or system down. The limited capacity of the bottleneck reduces the capacity of the entire chain or flow. The negative impact of having a bottleneck can be stalls in production, supply overstock (or unfinished work in computing), pressure from customers, and low employee morale.
+
+Burn Down Chart
+Burn Down Charts are most commonly used in Scrum to track the progress of a sprint and represent the work that is left to do versus time. A burndown chart has points/effort for outstanding work on the y axis and time on the x axis. Work is planned for the sprint, and the estimate of that work becomes the high value on the y axis, at the start of time. A line is added with a slope from the upper left down to the lower right showing the projected completion if items are completed smoothly. As the sprint progresses, data points are added to show the actual work completed, or if work has been added. This helps with predicting when all the work will be completed, and can help identify if there were problems during a sprint.
+
+Burn Up Chart
+Roughly the opposite of a Burn Down Chart, a Burn Up Chart has the same data on the X and Y axes, but tracks progress towards a project completion. There are 2 lines on a Burn Up Chart – the first line represents the amount of work that is within project scope, this creates the upper boundary, and as work is added or removed from the project this line moves up or down. The second line tracks completed work and creates a line that starts on the bottom left and moves up to the upper right. One the two lines meet, that is when all the work in scope for the project has been completed.
+
+Cards (stories, epics, product backlog item)
+Cards is the original term to refer to any work item that is desired for the team to work on. This term comes from when all work items were written on 3x5 Index Cards. Cards and Product Backlog Item are synonymous. Cards can be Stories or Epics. An Epic is a representation of a large body of work made up of multiple stories. Stories are individual work items that have been broken down to be a discrete piece of work, and general try to be small enough for a developer to complete in a few hours to a few days.
+
+Ceremonies
+Ceremonies is what Scrum calls the meetings in the framework. Sprint Planning, Daily Standup, Sprint Review, and Sprint Retrospective are all examples of ceremonies.
+
+CI/CD – Continuous Integration/Continuous Deployment
+Continuous Integration and Continuous Deployment is a concept mostly associated with DevOps. The general idea is that when a developer is working on code and completes a piece of work, it is Integrated back into the larger code base in real time once it is checked in, then run through a pipeline that includes automated testing, and if the tests pass, the code is then automatically deployed to the next environment in the chain. This creates short feedback loops so if there are problems or if the code doesn’t pass a test, it is known and can be addressed immediately. At minimum CI/CD to the Dev and QA Environments should be standard. Automatically deploying to UAT and Production (potentially with the functionality disabled until the desired release date) is considered a leading practice and results in better team outcomes.
+
+Continuous Improvement (Kaizen)
+An ongoing effort to improve products, services, processes through small incremental change. The Japanese have the term “kaizen” which focuses on small changes to eliminate waste and improve day to day work. This is the idea of making small changes each day that slowly improve the whole system over time, by experimenting, reviewing the results and outcome, then making additional small changes reflecting on what you have learned. The goal is to introduce small manageable change so that each day is incrementally better than the last.
+
+Cycle Time
+Cycle time is the total elapsed time for a unit of work to move from the beginning to the end of a specific process. In software development Cycle Time is generally the time from when a development team picks up a card and begins work, to the time the finished work is delivered to production. See Lead Time for a similar but different measurement.
+
+Daily Standup (Daily Scrum)
+Daily Standup or Daily Scrum is a short, daily, reoccurring meeting to help a team coordinate and share progress, challenges, or impediments. This is not a status meeting, but rather a time to help the team work together and help one another resolve challenges or issues. This meeting is typically no longer than 15 minutes and is recommended with both Scrum and Kanban.
+
+Often this meeting has the team answer three questions as an individual:
+What did you do yesterday?
+What are you doing today?
+Any blocks or impediments?
+
+Alternatively the standup can be focused more on the work items:
+What was completed with this item yesterday?
+What is the plan to move this item forward/what will be done by the time we meet next?
+What is preventing this work from being completed by the time we meet next?
+
+Daily Standup is not necessary for high performing teams who collaborate continuously, or teams who perform Pair or Mob Programming effectively.
+
+Definition of Ready
+This is a standard set of requirements created and agreed upon by the team defining what is required to consider a story “ready” to ensure the development team has all the necessary information to begin their work. This may include things like a description, acceptance criteria, mock-ups, Gherkin formatted behaviors, or other criteria as decided by the team.
+
+Definition of Done
+The Definition of Ready is a standard set up requirements created and agreed upon by the team defining all the things that must be complete for a story to be considered “done”. This may include testing, documentation, user acceptance, non-functional requirements around security or audit requirements, or other things the team wants to make sure is done for every story when released to production.
+Development Team
+In Scrum the Scrum Team is made up of the Product Owner, ScrumMaster, and Development Team. The development team is typically made up of 4-9 members and may be specialists like programmers, testers, database admins, operations specialists, or others. Scrum only recognizes the term “developer” and while there may be specialized roles or skillsets, Scrum does not make a distinction.
+
+DevOps
+DevOps is primarily focused on taking Lean principles and applying them to how Development and Operations teams communicate and work together. DevOps supports CI/CD pipelines, proactive monitoring, self-service operations, self-service audit capabilities, and focuses heavily on improvements to the system so that each day is a better and easier working environment than the day before. Underlying concepts behind DevOps are The 3 Ways, and The 5 Ideals.
+
+The 3 Ways:
+First Way: Systems Thinking
+Second Way: Amplify Feedback Loops
+Third Way: Culture of Continual Experimentation and Learning
+
+The 5 Ideals:
+First Ideal – Locality and Simplicity
+Second Ideal – Focus, Flow, and Joy
+Third Ideal – Improvement of Daily Work
+Fourth Ideal – Psychological Safety
+Fifth Ideal – Customer Focus
+
+DDD – Domain Driven Design
+Domain Driven Design is an approach to software development that tries to ensure there is a clear understanding of the space (domain), that business and developers share a ubiquitous language, and that the software is designed to match the business space in terms of structure and language, to support ease of communication and understanding.
+
+Epics
+See CARDS
+
+EventStorming
+EventStorming is a workshop-based method to create shared language and understanding between the business and development. This tool is a valuable and common starting point for a Domain Driven Design focused effort.
+
+Flow
+Flow is a concept primarily used in Kanban that focuses on moving work along in a steady, continuous stream. A focus on flow means that identifying slow down, impediments, and bottlenecks is a primary consideration and we want to eliminate those things that prevent or limit the smooth flow of work through the planning, development, and deployment stages of the software lifecycle.
+
+Gherkin Format
+See BDD – Behavior Driven Development
+
+Impediment vs Block/Blocker
+An Impediment is something that slows down work, where a block or blocker is something that stops or halts work. In a stream some small rocks or sticks that slows the flow is an impediment, while a dam is a blocker.
+
+
+Information Radiators
+Teams are encouraged to have big visible information radiators to clearly make work visible. This may be large story maps, Kanban boards, sprint boards, large screens that visualize the pass/fail rate of automated tests, or the status of deployments through the pipeline. By making work visible, easy to see, and in your face it ensures that teams are focusing on the most important problems, and creates unified understanding of progress or challenges.
+
+Iterative Development
+Iterative Development is a development style with a focus on small batches of functionality that we can design, develop, test, and get immediate feedback which can then be incorporated into the process, and repeat this in cycles. Instead of delivering a large set of features that may not be correct, iterative development provides quick feedback so the team can course correct and ensure the final product meets the desired outcome.
+
+Kanban
+Kanban is a tool and workflow method that is based out of Lean Manufacturing. Kanban is about visualizing the stages work flows through, has team members pulling work (instead of pushing or assigning tasks), and requires managing the amount of Work in Progress (WIP) in each stage/status. Kanban is based on continuous flow (compared to Scrum’s time boxed sprints) and utilizes Lead Time (from when a ticket is entered to completed) and Cycle Time (from when a team starts the work to when it is completed) as its primary metrics, which supports more accurate forecasting of work. Kanban helps teams identify bottlenecks and optimize the workflow to increase productivity and is heavily focused on continuous and incremental improvement.
+
+Lead Time
+Lead time is the total elapsed time from the conception of an idea to the completion of the delivery process. In software development Lead Time is generally the time from when an idea enters the backlog or option pool to the time the finished work is delivered to production. See Cycle Time for a similar but different measurement.
+
+Lean
+Lean originates from Japanese manufacturing and is focused on minimizing waste within a manufacturing system without sacrificing productivity. Lean looks at waste through overburden, unevenness in workloads, and focuses on making those things that add value obvious and visible, while reducing or eliminating everything else that does not add value. This is mostly derived from the Toyota Production System and was not called Lean until the 1990s. Lean has a big focus on respect, people, respect for people, and teamwork.
+
+Seven Original Mudas (wastes) are:
+
+
+Transport
+Inventory
+Motion
+Waiting
+Overproduction
+Over processing
+Defects
+
+
+Lean Thinking is the underlying thought process and focuses on human beings and how to organize their activities to deliver more benefits to society and value to individuals, while eliminating waste. The main concepts are Value, Value Streams, and Flow. The primary aim is to create a lean enterprise that maintains sustainable growth by aligning customer happiness with employee satisfaction. Lean promotes training every person to identify wasted time and effort and work with the organization as a whole to eliminate such waste, to deliver more value and less expense, while growing employee’s confidence, competence, and ability to work with others.
+
+
+(cont. on next page)
+
+
+
+(cont. from previous page)
+
+Lean Software Development was an adaptation and translation of lean manufacturing to the software development domain. The term started with Mary and Tom Poppendieck in 2003.
+
+Lean principles translated to software development as:
+
+
+1. Eliminate waste
+2. Amplify learning
+3. Decide as late as possible
+4. Deliver as fast as possible
+5. Empower the team
+6. Build integrity in
+7. Optimize the whole
+
+
+Waste includes:
+
+
+Partially done work
+Extra features
+Relearning
+Task switching
+Waiting
+Handoffs
+Defects
+Management activities
+Building the wrong feature or product
+Mismanaging the backlog
+Rework
+Unnecessarily complex solutions
+Extraneous cognitive load
+Psychological distress
+Waiting/multitasking
+Knowledge loss
+Ineffective communication
+
+
+Lean Startup
+Lean Startup is a methodology popularized by Eric Reis that focuses on shortening product development cycles to rapidly experiment and get feedback to determine if a proposed business model or piece of software is viable. This is done through a process of business-hypothesis-driven experimentation, iterative product releases, and validated learning. These concepts can be applied to ANY new product development, not just software or startups.
+
+MMF – Minimum Marketable Feature
+A MMF is a small, self-contained feature that can be delivered quickly and delivers value to the user, independent of other features. Variations of this could be Minimum Marketable Product or Minimum Releasable Feature. MMF is often mixed up with MVP – MMF is about delivering value to customers, while MVP is about learning more about if the product is even valuable.
+
+MVC – Minimum Viable Compliance
+Minimum Viable Compliance is a concept that comes out of the DevOps world and was presented by a Lawyer at Nike. The idea is that when new compliance requirements come out, instead of over-developing a solution, identify the minimum changes/features/updates necessary to meet the compliance rule and satisfy regulatory.
+
+MVP – Minimum Viable Product
+This concept comes out of Lean Startup by Eric Ries. The original definition is “that version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort” and primarily focuses on whether customers will want to purchase the product. A true MVP may be something like a landing page that allows customers to enter their email address to be notified when the product launches. For CoinStar the original MVP was a cardboard box that the founder placed in a grocery store and sat inside with a change counter and dollar bills, he would manually count the change, then push dollar bills out the slot. This was to test the concept and see if there was even a market to purchase it. The primary benefit is to gauge interest before spending time and money developing something that people may not want.
+
+
+Option Pool
+Option Pool is a concept that is similar to the concept of backlog, but acknowledges the fact that more ideas will come in than can possibly be completed. An Option Pool is a space for all ideas to come in and be held without making any commitments, and recognizing that items in the option pool may never be worked on. Teams that use an option pool generally say work should only enter the backlog when we are reasonably certain we must need to complete that work item. For Backlogs that have WIP (work in progress) limits applied the Option Pool is what feeds the backlog.
+
+Pair Programming (Pairing) and Mob Programming (Mobbing)
+Pair Programming (or pairing) and mob programming (mobbing) are based on the idea that quality is most important, and that we come up with better ideas, designs, and improved quality when we work together than when we work separately. In pairing 2 developers team up and generally one drives/types while the other navigates/problem solves. Mobbing is a similar concept where the entire team – multiple developers, business representation, testers, etc. – all sit together and design, build, test, and iterate on software development together. Both of these practices help provide increased quality and faster feedback loops.
+
+Persona/User Persona
+A Persona defines a type of user of a system and provides an example of the type of person who would interact with it. The idea is that if you want to design effective software, it needs to be designed with a specific person in mind. While an Actor or Agent is a generic description of a person who is involved (i.e. “analyst”, “customer”, “bank rep”) a Persona gives a specific example of a possible real user. We generally name personas and provide context and a description so we can ask “How would Tim use this feature?” or “Would Mark even be interested in this screen?” This helps the team to have a concrete picture of who they are building the system for, and how they will use it.
+
+Planning Poker
+Planning Poker is a relative estimating technique that uses Fibonacci sequence numbers (1, 2, 3, 5, 8, 13, 21…) to help teams with estimating and planning.
+
+Product Backlog
+The Product Backlog is the list of features or other work items that are desired for a particular system, and have been accepted as “we are likely to do this work.” Many people consider all items that have been entered/requested to be part of the Product Backlog, while others say there is an Option Pool of possible ideas and once they are accepted become part of the Product Backlog.
+
+Product Backlog Item (PBI)
+See Cards
+
+Product Increment
+A Product Increment is an artifact in Scrum and represents the work that was completed at the end of a sprint. A Product Increment may represent a feature, or piece of a feature, that has been built and if accepted by the Product Owner as complete can be deployed and delivered to the users.
+
+Product Owner
+The Product Owner is a Scrum Team role identified in Scrum. The Product Owner is responsible for working with users and stakeholders, identifying what new features or enhancements will provide value, helping to clarify and define those items in the form of Cards/Stories, ordering the backlog, and helping refine stories to ensure they meet the Definition of Ready for the team to pick up. The Product Owner needs to work daily with the Development Team to answer questions, provide input and feedback, or test and accept stories as complete. The Product Owner’s primary goal is to ensure the team is working on the most important or most valuable functionality for the users of the system.
+
+
+Pull
+In Lean and Kanban pull refers to a technique that controls the flow of work by only replacing work when there is a space/capacity, and allowing the owner of a work station to bring work in (pull work) when they are ready, instead of having work pushed into their system. An example of the difference between PUSH and PULL is that in a PUSH system tasks are assigned to an individual and they have to work through that list, where in a PULL system tasks live in a queue and individual workers pull work in when they have capacity, and do not pull additional work until they complete what they have already pulled to their queue.
+
+Refactoring
+Refactoring is the process of changing something in such a way that it does not alter the underlying system, but improves it or makes it easier to understand in some way. In software development refactoring generally occurs when you write code to solve a problem, then go back and make that code cleaner, easier to read and understand, without impacting the underlying functionality. Editing a book manuscript is another example of refactoring.
+
+Relative Estimation
+Relative Estimation is a type of estimation that relies more on fuzzy concepts and comparison than hard numbers. Comparing T-Shirt sizes (i.e. S, M, L, XL), or amount each dog will eat (i.e. Chihuahua, Pug, Basset Hound, Lab, Akita, Great Dane) are examples of relative estimation. This type of estimation is not associated with time, and helps teams to compare two things to one another to determine the effort. Fibonacci sequence used in Planning Poker is also an example of relative estimation.
+
+Scrum
+Scrum is a framework under the agile umbrella. Scrum was created as a way to attempt to put the values and principles behind the Agile Manifesto into practice in the real world. It defines roles, responsibilities, and meetings (ceremonies) and a recommended cadence. Scrum utilizes “sprints” to get work done which is a defined timeframe of no longer than a month, but can be as short as one day (most common sprint length is 2 weeks, though many teams have great success with 1 week sprints). Scrum does not solve problems, rather it makes problems very visible and brings them to the forefront requiring that they be addressed rapidly for Scrum to be successful.
+
+Scrum roles include:
+Product Owner, Scrum Master, and Development Team (all of these together are the Scrum Team).
+
+Scrum ceremonies include:
+sprint planning, daily Scrum/standup, a sprint review, and a sprint retrospective.
+
+Scrum Team
+The Scrum Team is the collective group including the Product Owner, ScrumMaster, and Development Team.
+
+ScrumMaster
+A ScrumMaster is a role on a Scrum Team. The ScrumMaster is primarily focused with team facilitation, team coaching, and teaching/training and enforcing Agile and Scrum values and principles and the Scrum framework. The ScrumMaster manages the process for how information is exchanged, and works to increase collaboration and communication. The ScrumMaster encourages the team to learn and solve problems, and also works to protect the team from outside interruptions and distractions.
+
+Spike
+A Spike is a special type of card/story for when the development team does not have enough understanding or information about how to accomplish a specific task and must do some research or dedicated experimentation to learn how to proceed. These are generally limited in some way (restricted by a time-box, or given very specific acceptance criteria) to keep focus and ensure the desired outcome is met.
+
+Sprint
+A sprint is a type of iteration time box used to focus the development team. In Scrum the original sprint length was 1 month. It is now very common for Scrum teams to use a 2-week time box as their sprint length. There are teams that have experimented with even shorter sprint lengths, from 1 week to as short as 1 day. Sprint length impacts the amount of time dedicated to the ceremonies the team completes (a month sprint may have a 4+ hour Sprint Planning while a 1 week sprint may have a 1 hour or less Sprint Planning)
+
+Sprint Backlog
+During Sprint Planning before the start of each Sprint, the development team will review the backlog with the product owner and determine how many items they believe they can complete over the duration of the sprint. The items that are agreed to and pulled into the sprint make up the Sprint Backlog. This allows the team to focus only on the work that has been planned for this sprint, and reduces distractions from other work items still in the backlog.
+
+Sprint Planning
+Prior to starting each sprint the Development Team and Product Owner will review the items in the backlog and make a plan for what work items to include in the upcoming sprint. This meeting is called Spring Planning. In some cases with a well refined and maintained backlog Sprint Planning may be a very short meeting just to decide what to work on. In other cases Sprint Planning may involve reviewing and splitting stories into more manageable chunks, completing relative estimating and putting story points on the stories, or clarifying and doing initial design work. This depends on how the team works together and what works best for the team.
+
+Sprint Retrospective
+After each sprint has closed the Scrum Team will get together to discuss the previous iteration and discuss things that worked well, things that didn’t work so well, and ideas for improvement. The ScrumMaster facilitates this session and can choose different tools, techniques, or activities to help the team get the best outcomes. Out of this session the team will pick some number of experiments (the general recommendation is 1 so as to maintain focus) to implement during the next sprint and see if that helps improve how the team completes work.
+
+Sprint Review
+The Sprint Review is the final ceremony that takes place during the sprint itself, and this meeting closes out the sprint. During the Sprint Review the Scrum Team and stakeholders look back and review what work was completed in the previous sprint, what problems or challenges were encountered/discovered, and to look forward and shape the product in future sprints.
+
+Stakeholder
+A stakeholder is a person with an interest or concern in something, generally this refers to someone on the business who cares about a feature, piece of software, or specific functionality.
+
+Stories
+See Cards or Story (User Story)
+Story (User Story)
+A Story or User Story is an agile replacement for ‘requirements’. They are called stories because they should be written in clear plain English and describe at a high level the who, what, and why of the functionality being. Unlike requirements Stories do not and should not be extremely detailed, instead Stories represent an idea and are a placeholder for a conversation. Good user stories meet INVEST criteria – Independent, Negotiable, Valuable, Estimable, Small, and Timely. A common user story format (though not necessarily the best) is to write in a “As a (type of user), I Want (what they want), SO THAT (what value/benefit they will get out of it).”
+
+
+Story Mapping
+Story Mapping or User Story Mapping is a technique to structure stories and help determine what functionality needs to go together or in what release. At the top of the map are “big stories” or user activities – things with lots of steps but not necessarily a precise workflow. Under each activity we put more specific stories that describe the actual user tasks that make up the larger activity. We can then re-arrange and sort these into releases, and this helps us see the big picture of what functionality we need to build when.
+
+Story Points
+Story Points are a type of relative estimation typically using Fibonacci sequence numbers. They do not represent time, and are primarily used by the Product Owner and Development Team to determine how much work can be pulled into a particular sprint. At the end of a sprint the total number of completed story points is the team Velocity for that sprint.
+
+Swarming
+Swarming is the practice by which the whole team works together on the same problem.  Swarming focuses energy at a critical area or key activity and ensures all the right people are there to get it done. Swarming is often used to address and resolve production problems, but can also be used to reduce the amount of overhead and up front planning – the team swarms on a problem to identify and implement a solution as soon as it is important.
+
+Team Charter (Team Agreements, Working Agreements)
+A Team Charter, Team Agreements, or Working Agreements are all different terms to describe a document created by the team to clarify team direction, how the team works together, and establishes boundaries and ground rules for the team. This is developed early during the team’s formation, and should be developed in a facilitated group session by all team members to encourage understanding and buy-in.
+
+Technical Debt
+Technical Debt is a software development concept that brings awareness to the cost of rework that will arise by choosing an easy, limited, low quality, or incomplete solution to deliver something now, rather than using a better approach that would take longer. Technical debt awareness is important because making trade-offs on design and quality in the short term can result in long term problems making the system more difficult to update and maintain in the future.
+
+TDD – Test-Driven Development
+Test Driven Development (TDD) is a development process that focuses on code quality and ‘test first’ mentalist. This is done by writing a test first (which will fail as there is nothing to successfully pass the test), then writing code that passes the test, then refactoring that code so it is clean and easy to understand. As additional tests and code are written, we continue to ensure old tests pass, leading to higher quality code.
+
+Unit Testing
+Unit testing is a software test method by which individual units of code are tested to ensure they are working as expected. A unit test is like taking a spark plug out of a motorcycle and testing that it works independent of the rest of a motorcycle.
+
+Velocity
+Velocity in Scrum is a measure of the amount of work a team can complete during a sprint. Velocity is calculated at the end of a sprint by taking the total story points of all completed user stories and adding them together. While velocity is useful for planning a specific sprint and ensuring the team is not overloaded, it may not always the most reliable for longer term planning and estimation if a team has inconsistent velocity or challenges estimating story points.
+
+
+WIP – Work In Progress
+Work in Progress or WIP refers to all partially finished work in the system. Anything that someone has touched or worked on, but is not in a DONE state, can be considered Work in Progress. Pull based systems like Lean and Kanban focus on limiting WIP and apply WIP limits to states in the flow to help ensure that the system is not overloaded. As WIP increases throughput slows down and wait times increase, while limiting WIP helps to ensure a state of steady flow.
+
+Working Agreements
+See Team Charter
