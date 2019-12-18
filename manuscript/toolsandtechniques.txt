@@ -75,6 +75,7 @@ ALL OF THE BELOW CONTENT WILL NOT BE GOING INTO THIS BOOK. Maybe future books...
 * lean Canvas
 * app development Canvas
 * wardley mapping Canvas
+* MVP Ideation Canvas
 
 ### retrospectives
 
