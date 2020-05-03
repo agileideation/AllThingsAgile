@@ -76,6 +76,19 @@ ALL OF THE BELOW CONTENT WILL NOT BE GOING INTO THIS BOOK. Maybe future books...
 * app development Canvas
 * wardley mapping Canvas
 * MVP Ideation Canvas
+* bounded context Canvas
+* personas Canvas
+* document system context (C4)
+* A3 problem solving
+* big picture event EventStorming
+* identify canddiate contexts - heuristics
+* validate contexts - message flows
+* document contexts - bounded context Canvas
+* model a context - design-level event EventStorming
+* document a context - c4 container diagram
+* prioritise a context - evaluation criteria
+* plan the migration - migration and database patterns
+
 
 ### retrospectives
 
